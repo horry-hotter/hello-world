@@ -1,2 +1,3 @@
 # hello-world
-動作確認 Just another repository
+yamlファイルの動作確認用リポジトリ。
+js-yamlを使ってyamlファイルの読み取り、書き出しを行っている
